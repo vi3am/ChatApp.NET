@@ -46,7 +46,7 @@ Each client connects to the server, sets a unique username, and starts listening
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/ChatClientServerApp.git
+   git clone https://github.com/vi3am/ChatApp.NET.git
    ```
 
 2. **Build the Server:**
